@@ -31,7 +31,7 @@ However, the date range picker does allow you to set your own meeting times if t
 
 ## Notes
 
-Due to browser JavaScript sandboxing and lack of CORS support on Cisco TelePresence, only limited error detection is possible.  Sorry!
+Due to browser JavaScript sandboxing and lack of CORS support on Cisco TelePresence, only limited error detection is possible. 
 
 ## Built With
 
@@ -51,7 +51,3 @@ Due to browser JavaScript sandboxing and lack of CORS support on Cisco TelePrese
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
 
-## Acknowledgements
-
-* Hat tip to James Adams, formerly of CDW, for challenging me with the idea
-* Hat tip to David Bruun-Lie, Cisco Systems, for some code pointers
